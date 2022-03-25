@@ -1,0 +1,56 @@
+[
+    {
+      "id" : "001",
+      "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6 HD Laptop",
+      "price": "36800",
+      "img" : "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&from_query=laptop%20pic&position=1&from_view=search" 
+    },
+    {
+        "id" : "002",
+        "name": "HP 15s-du1115TU Celeron N4020 15.6 HD Laptop",
+        "price": "33200",
+        "img" : "https://www.freepik.com/free-psd/laptop-mockup-wooden-table_14323313.htm?query=laptop&from_query=laptop+pic"
+    },
+    {
+        "id" : "003",
+      "name": "HP 14s-dq2888TU Core i5 11th Gen 14 HD Laptop",
+      "price": "65000",
+      "img" : "https://www.freepik.com/free-psd/laptop-mock-up-isolated_4075263.htm#page=2&query=laptop%20mockup%20mockup%20computer&position=7&from_view=search"
+    },
+    {
+        "id" : "004",
+      "name": "Acer Extensa 15 Core i3 10th Gen 15.6 FHD Laptop",
+      "price": "41500",
+      "img" : "https://www.freepik.com/free-psd/laptop-mock-up-isolated_4075239.htm?query=laptop%20mockup%20%20mockup%20computer"
+    },
+    {
+        "id" : "005",
+      "name": "Asus Vivobook X515MA Celeron N4020 15.6 HD Laptop",
+      "price": "35500",
+      "img" : "https://www.freepik.com/free-psd/laptop-mock-up-isolated_4075253.htm?query=laptop%20mockup%20mockup%20computer"
+    },
+    {
+        "id" : "006",
+      "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15 HD Laptop",
+      "price": "35000",
+      "img" : "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&from_query=laptop%20pic&position=1&from_view=search"
+    },
+    {
+        "id" : "007",
+      "name": "ASUS VivoBook 15 X515EA Core i3 11th Gen 15.6 IPS FHD Laptop",
+      "price": "51500",
+      "img" : "https://www.freepik.com/free-psd/laptop-mockup-design_11653805.htm#page=2&query=laptop%20mockup%20mockup%20computer&position=6&from_view=search"
+    },
+    {
+        "id" : "008",
+      "name": "Lenovo IdeaPad Slim 3i Intel Celeron N4020 15.6 HD Laptop",
+      "price": "35800",
+      "img" : "https://www.freepik.com/free-psd/close-up-view-laptop-mockup-design_11653799.htm?query=laptop%20mockup%20%20mockup%20computer"       
+    },
+    {
+        "id" : "009",
+      "name": "MSI Modern 15 A11MU Core i5 11th Gen 15.6 FHD Laptop",
+      "price": "52800",
+      "img" : "https://www.freepik.com/premium-psd/laptop-mockup-design-psd_11766580.htm?query=laptop%20mockup%20mockup%20computer"      
+    }
+]
