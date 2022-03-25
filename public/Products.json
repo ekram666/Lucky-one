@@ -3,54 +3,54 @@
       "id" : "001",
       "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6 HD Laptop",
       "price": "36800",
-      "img" : "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&from_query=laptop%20pic&position=1&from_view=search" 
+      "img" : "http://loprofilepc.com/store/image/cache/data/dell3510-525x525.png" 
     },
     {
         "id" : "002",
         "name": "HP 15s-du1115TU Celeron N4020 15.6 HD Laptop",
         "price": "33200",
-        "img" : "https://www.freepik.com/free-psd/laptop-mockup-wooden-table_14323313.htm?query=laptop&from_query=laptop+pic"
+        "img" : "https://m.media-amazon.com/images/I/710QdRZmrhL._AC_SX425_.jpg"
     },
     {
         "id" : "003",
       "name": "HP 14s-dq2888TU Core i5 11th Gen 14 HD Laptop",
       "price": "65000",
-      "img" : "https://www.freepik.com/free-psd/laptop-mock-up-isolated_4075263.htm#page=2&query=laptop%20mockup%20mockup%20computer&position=7&from_view=search"
+      "img" : "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/inspiron_15_3511/pdp/notebook-inspiron-15-3511-pdp-mod01-bk-fpr.psd?fmt=jpg&wid=4021&hei=2375"
     },
     {
         "id" : "004",
       "name": "Acer Extensa 15 Core i3 10th Gen 15.6 FHD Laptop",
       "price": "41500",
-      "img" : "https://www.freepik.com/free-psd/laptop-mock-up-isolated_4075239.htm?query=laptop%20mockup%20%20mockup%20computer"
+      "img" : "https://optimacomputerbd.com/wp-content/uploads/2021/03/delle.jpg"
     },
     {
         "id" : "005",
       "name": "Asus Vivobook X515MA Celeron N4020 15.6 HD Laptop",
       "price": "35500",
-      "img" : "https://www.freepik.com/free-psd/laptop-mock-up-isolated_4075253.htm?query=laptop%20mockup%20mockup%20computer"
+      "img" : "https://optimacomputerbd.com/wp-content/uploads/2021/01/ip-slim-15-1000-OP.jpg"
     },
     {
         "id" : "006",
       "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15 HD Laptop",
       "price": "35000",
-      "img" : "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&from_query=laptop%20pic&position=1&from_view=search"
+      "img" : "https://optimacomputerbd.com/wp-content/uploads/2021/11/Dell-Latitude-Noteook-15-3510.jpg"
     },
     {
         "id" : "007",
       "name": "ASUS VivoBook 15 X515EA Core i3 11th Gen 15.6 IPS FHD Laptop",
       "price": "51500",
-      "img" : "https://www.freepik.com/free-psd/laptop-mockup-design_11653805.htm#page=2&query=laptop%20mockup%20mockup%20computer&position=6&from_view=search"
+      "img" : "https://m.media-amazon.com/images/I/710QdRZmrhL._AC_SX425_.jpg"
     },
     {
         "id" : "008",
       "name": "Lenovo IdeaPad Slim 3i Intel Celeron N4020 15.6 HD Laptop",
       "price": "35800",
-      "img" : "https://www.freepik.com/free-psd/close-up-view-laptop-mockup-design_11653799.htm?query=laptop%20mockup%20%20mockup%20computer"       
+      "img" : "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/inspiron_15_3511/pdp/notebook-inspiron-15-3511-pdp-mod01-bk-fpr.psd?fmt=jpg&wid=4021&hei=2375"       
     },
     {
         "id" : "009",
       "name": "MSI Modern 15 A11MU Core i5 11th Gen 15.6 FHD Laptop",
       "price": "52800",
-      "img" : "https://www.freepik.com/premium-psd/laptop-mockup-design-psd_11766580.htm?query=laptop%20mockup%20mockup%20computer"      
+      "img" : "https://optimacomputerbd.com/wp-content/uploads/2021/01/ip-slim-15-1000-OP.jpg"      
     }
 ]
