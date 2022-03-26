@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Product = (props) => {
     const {name, img, price } = props.product;
+    const {addToCart} = props;
 
     return (
         <div className='card'>
@@ -12,7 +13,7 @@ const Product = (props) => {
                 <h6>{name}</h6>
                 <p>${price}</p>
             </div>
-            <button >
+            <button onClick={() => addToCart(props.product)}>
                 <p>
                     Add To Cart 
                 </p>
