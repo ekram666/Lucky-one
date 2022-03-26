@@ -6,12 +6,11 @@ const Product = (props) => {
     const {addToCart} = props;
 
     return (
-        <div className='card'>
-            <img className='rounded mx-auto d-block m-3 img-fluid p-4' src={img} alt=""/>
-
-            <div>
-                <h6>{name}</h6>
-                <p>${price}</p>
+        <div className="card">
+            <img className="rounded mx-auto d-block m-3 img-fluid p-4" src={img} alt=""/>
+            <div className="card-body text-center">
+                <h6 className="cart-title">{name}</h6>
+                <p className="cart-title">${price}</p>
             </div>
             <button onClick={() => addToCart(props.product)}>
                 <p>
