@@ -1,0 +1,13 @@
+.btcn{
+    background-color: rgb(206, 199, 199);
+    border: 0;
+    border-radius: 10px;
+}
+
+.btcn:hover{
+    
+    box-shadow: rgba(245, 203, 64, 0.2) 0 -25px 18px -14px inset,
+    rgba(245, 203, 64, 0.2) 0 1px 2px, rgba(245, 203, 64, 0.2) 0 2px 4px,
+    rgba(245, 203, 64, 0.2) 0 4px 8px, rgba(245, 203, 64, 0.2) 0 8px 16px,
+    rgba(245, 203, 64, 0.2) 0 16px 32px;
+}
